@@ -1,4 +1,6 @@
 # br-nomic
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/br-nomic.svg)](https://greenkeeper.io/)
 nomic on ethereum
 
 on ropsten
